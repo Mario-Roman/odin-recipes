@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(216, 161, 10);
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+img{
+    text-align: center;
+    padding-left: 640px;
+}
+
+li{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
